@@ -1,4 +1,4 @@
-# 🌟 FHEVM DApp7 - Enhanced Zama Integration
+# 🌟 FHEVM - Enhanced Zama Integration
 
 This project has been **completely upgraded** to use the official Zama CDN and implements the latest FHEVM React template patterns for secure homomorphic encryption operations.
 
@@ -307,5 +307,6 @@ npm run quantum-test
 - Cross-platform compatibility improvements
 
 
-This updated version brings D:\web3\dapp7 in line with the latest Zama FHEVM standards while maintaining backward compatibility and adding significant new capabilities.
+This updated version brings  in line with the latest Zama FHEVM standards while maintaining backward compatibility and adding significant new capabilities.
+
 
