@@ -1,0 +1,35 @@
+{
+  "name": "fhevm-dapp7",
+  "version": "1.0.0",
+  "description": "FHEVM Counter DApp with Sepolia deployment",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "compile": "hardhat compile",
+    "deploy": "hardhat run scripts/deploy-fhe-counter.js --network sepolia",
+    "deploy:local": "hardhat run scripts/deploy-fhe-counter.js --network localhost",
+    "test": "hardhat test",
+    "node": "hardhat node",
+    "console": "hardhat console",
+    "verify": "hardhat verify"
+  },
+  "dependencies": {
+    "@fhevm/solidity": "^0.7.0",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "ethers": "^6.15.0",
+    "hardhat": "^2.26.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  },
+  "keywords": [
+    "fhevm",
+    "ethereum",
+    "zama",
+    "privacy",
+    "encryption"
+  ],
+  "author": "FHEVM Developer",
+  "license": "BSD-3-Clause-Clear"
+}
