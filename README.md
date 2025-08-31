@@ -55,7 +55,6 @@ This project has been **completely upgraded** to use the official Zama CDN and i
 
 1. **Clone and Install Dependencies**
 ```bash
-cd D:\web3\dapp7\frontend
 npm install
 ```
 
@@ -307,5 +306,6 @@ D:\web3\dapp7\frontend\
 - Better error messages and troubleshooting guides
 - Enhanced UI feedback and status indicators
 - Cross-platform compatibility improvements
+
 
 This updated version brings D:\web3\dapp7 in line with the latest Zama FHEVM standards while maintaining backward compatibility and adding significant new capabilities.
