@@ -258,7 +258,6 @@ npm run quantum-test
 
 ## 📁 Project Structure
 ```
-D:\web3\dapp7\frontend\
 ├── src\
 │   ├── utils\
 │   │   └── fhevm.ts                    # 🆕 Enhanced FHEVM utilities
@@ -309,3 +308,4 @@ D:\web3\dapp7\frontend\
 
 
 This updated version brings D:\web3\dapp7 in line with the latest Zama FHEVM standards while maintaining backward compatibility and adding significant new capabilities.
+
